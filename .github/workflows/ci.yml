@@ -28,8 +28,7 @@ jobs:
          go-version: '>=1.18.0' # The Go version to download (if necessary) and use.
       - run: |
           cd ./layers/
-          go install github.com/zamsyt/plov@latest
-          go run plov.go
+          go run github.com/zamsyt/plov@latest
           cd ..
           rm -f ./place.png
           mv ./layers/overlay.png ./place.png
