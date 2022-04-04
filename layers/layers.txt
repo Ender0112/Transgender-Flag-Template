@@ -1,5 +1,1 @@
-original.png
-florida_saygay.png
-3-celeste.png
-hypertrance.png
-madoka.png
+final.png
