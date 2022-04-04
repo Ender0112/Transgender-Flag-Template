@@ -1,5 +1,4 @@
-x ../reference/full-canvas_04_18-30-UTC.png
 original.png
 florida_saygay.png
-3-celeste.png\
+3-celeste.png
 hypertrance.png
